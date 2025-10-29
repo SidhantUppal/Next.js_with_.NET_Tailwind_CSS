@@ -56,8 +56,8 @@ This project demonstrates a modern full-stack architecture with:
 
 ### Prerequisites
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [Node.js 18+](https://nodejs.org/)
+- [.NET 8 SDK]
+- [Node.js 18+]
 - npm or yarn
 
 ### 1. Clone & Install
@@ -207,18 +207,16 @@ The application includes complete authentication:
 ## 🛠️ Tech Stack
 
 ### Backend
-- [.NET 8](https://dotnet.microsoft.com/)
-- [ServiceStack](https://servicestack.net/)
-- [ServiceStack OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite)
-- [SQLite](https://www.sqlite.org/)
+- [.NET 8]
+- [ServiceStack]
+- [ServiceStack OrmLite]
+- [SQLite]
 
 ### Frontend
-- [Next.js 13](https://nextjs.org/)
-- [React 18](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [SWR](https://swr.vercel.app/)
-- [@servicestack/client](https://docs.servicestack.net/typescript-add-servicestack-reference)
+- [Next.js 13]
+- [React 18]
+- [TypeScript]
+- [Tailwind CSS]
 
 ## 📦 Deployment
 
