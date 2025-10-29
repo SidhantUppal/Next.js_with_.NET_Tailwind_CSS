@@ -291,16 +291,8 @@ Contributions are welcome! Please:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📝 License
 
-This project is part of a ServiceStack template. See [ServiceStack License](https://servicestack.net/download#license) for details.
-
-## 💡 Support
-
-- [ServiceStack Community](https://forums.servicestack.net/)
-- [Next.js Discussions](https://github.com/vercel/next.js/discussions)
-
----
+Thank You :)
 
 **Built with ❤️ using .NET, Next.js, and Tailwind CSS**
 
