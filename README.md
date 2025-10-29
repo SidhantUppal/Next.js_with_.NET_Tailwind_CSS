@@ -101,13 +101,6 @@ Frontend will run at `http://localhost:3000`
 
 Navigate to `http://localhost:3000` to see the application.
 
-## 📚 Documentation
-
-Detailed documentation for each component:
-
-- **[API Documentation](./api/README.md)** - Backend API setup, configuration, and development
-- **[UI Documentation](./ui/README.md)** - Frontend setup, components, and styling
-
 ## 🔧 Development Workflow
 
 ### Adding a New API Endpoint
@@ -268,18 +261,6 @@ dotnet test
 cd ui
 npm run typecheck
 ```
-
-## 📖 Learn More
-
-### ServiceStack Resources
-- [ServiceStack Documentation](https://docs.servicestack.net/)
-- [AutoQuery Documentation](https://docs.servicestack.net/autoquery/)
-- [ServiceStack Auth](https://docs.servicestack.net/authentication-and-authorization)
-
-### Next.js Resources
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Next.js Learn](https://nextjs.org/learn)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
 ## 🤝 Contributing
 
