@@ -1,10 +1,6 @@
 # Next.js_with_.NET_Tailwind_CSS
 **Next.js with .NET and Tailwind CSS** offers a modern full-stack development approach combining the speed of Next.js for dynamic front-end rendering, the power of .NET for robust backend APIs, and the elegance of Tailwind CSS for responsive design—delivering scalable, high-performance, and visually consistent web applications.
 
-# .NET with Next.js & Tailwind CSS
-
-A full-stack web application template combining the power of .NET 8 with ServiceStack backend and Next.js with Tailwind CSS frontend.
-
 ## 🎯 Overview
 
 This project demonstrates a modern full-stack architecture with:
